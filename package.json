@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-arindam-roy/npm-zodiac-sign"
+    "url": "git+https://github.com/dev-arindam-roy/npm-unique-token"
   },
   "keywords": [
     "arindam",
@@ -21,9 +21,9 @@
   "author": "Arindam Roy <arindam.roy.developer@gmail.com> (https://github.com/dev-arindam-roy)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dev-arindam-roy/npm-zodiac-sign/issues"
+    "url": "https://github.com/dev-arindam-roy/npm-unique-token/issues"
   },
-  "homepage": "https://github.com/dev-arindam-roy/npm-zodiac-sign#readme",
+  "homepage": "https://github.com/dev-arindam-roy/npm-unique-token#readme",
   "devDependencies": {
     
   },
